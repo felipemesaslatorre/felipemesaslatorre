@@ -4,7 +4,7 @@
 JavaScript ┃**  
  
 
-I am currently starting out in the programming field, dedicating myself exclusively to Python.  
+I am currently starting out in the programming field, dedicating myself exclusively to JavaScript and React.  
 I intend to learn from my personal projects and from the projects of other people.
 
 ---
