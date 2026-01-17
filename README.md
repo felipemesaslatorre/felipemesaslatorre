@@ -1,48 +1,39 @@
-Hi 👋, Im Felipe Alves Am From Brazil
+# Hi 👋, I'm Felipe Alves Am From Brazil
 
-🚀 **Student Back-End ┃
-Python ┃** 
+🚀 **Student Front-End ┃
+JavaScript ┃**  
+ 
 
 I am currently starting out in the programming field, dedicating myself exclusively to Python.  
 I intend to learn from my personal projects and from the projects of other people.
-
-
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/felipealvesmesas">
-    <img src="https://img.shields.io/badge/GitHub-FELIPEALVESMESAS-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/herbertcarnaubadesouza">
+    <img src="https://img.shields.io/badge/GitHub-FELIPEMESASLATORRE-181717?style=for-the-badge&logo=github" />
   </a>
-
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@FELIPELATORRE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 🧠 What I do
 
-
--   🎓 I'm currently learning Python.
-
+- 🎓 I'm currently learning JavaScript and React.
 ---
 
 ## 🛠️ Tech Stack
 
+### Frontend
 
-### Backend
-
-![Node.js](    https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 
 ---
-
 
 🤝 Thank you so much for reading this far.
